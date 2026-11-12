@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "996173053041",
+    "firebase_url": "https://acreditaciones-b904f-default-rtdb.firebaseio.com",
+    "project_id": "acreditaciones-b904f",
+    "storage_bucket": "acreditaciones-b904f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996173053041:android:6bddf005423874a7882fd0",
+        "android_client_info": {
+          "package_name": "com.example.acreditacion_movil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnRsPebQLZHETUGPyxOKho_UgeIn3HFhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996173053041:android:a86d1c8e808a84b3882fd0",
+        "android_client_info": {
+          "package_name": "com.example.estacionamiento_qr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnRsPebQLZHETUGPyxOKho_UgeIn3HFhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996173053041:android:fdabc2c53b86d915882fd0",
+        "android_client_info": {
+          "package_name": "com.example.visitas_qr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnRsPebQLZHETUGPyxOKho_UgeIn3HFhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
